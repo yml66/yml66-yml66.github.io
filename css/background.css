@@ -9,12 +9,12 @@
 
 /* 鼠标样式  */
   body {
-    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/yml66/blog-img/img/%E9%BC%A0%E6%A0%871.cur),
         default;
 }
 a,
 img {
-    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/yml66/blog-img/img/%E9%BC%A0%E6%A0%872.cur),
         default;
 }
 
